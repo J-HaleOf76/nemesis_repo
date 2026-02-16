@@ -22,7 +22,7 @@
 # reset - commit your changes or stash them before you merge
 # git reset --hard - personal alias - grh
 
-./chaotic
+#./chaotic
 
 if [[ -f "./repo.sh" ]]; then
     echo "Found repo.sh, running it..."
